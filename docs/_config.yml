@@ -1,1 +1,11 @@
+
+
+# Jekyll Config
+
+# Metadata for the site header and footer
+title: Peter-Brain
+description: Peter's Thoughts and Ideas
+
+# Theme and Style
 theme: jekyll-theme-midnight
+
